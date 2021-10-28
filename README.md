@@ -1,6 +1,7 @@
 # Getting Started with Create React App
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Project is live at : https://namish-sidebar-app.netlify.app/
 
 ## To run this app on your machine :
 1. Go to the project directory in terminal
