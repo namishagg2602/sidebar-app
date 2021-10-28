@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## To run this app on your machine :
+1. Go to the project directory in terminal
+2. install npm 
+3. install styled-components , react-icons, react-router-dom
+4. run npm start 
+
+or refer to the below steps
+
 ## Available Scripts
 
 In the project directory, you can run:
