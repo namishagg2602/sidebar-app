@@ -1,0 +1,20 @@
+.bgdrop{
+    background-color: lightblue;
+    width : 70%;
+    justify-content: flex-start;
+    border-radius: 3px;
+    margin-left: 30px;
+    
+}
+
+body{
+    font-family: cursive;
+}
+
+.bedimcode{
+    color: black;
+    margin-left: 25px;
+    margin-bottom: 30px;
+    font-weight: bold;
+    font-size: larger;
+}
